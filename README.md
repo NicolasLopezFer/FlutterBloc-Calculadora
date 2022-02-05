@@ -1,3 +1,3 @@
 # Una calculadora muy basica usando BloC
 
-![Calculadora](image.png)
+<img src="image.png" width="300" height=600>
